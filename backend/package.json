@@ -89,6 +89,7 @@
     "locate-path": "^6.0.0",
     "lru-cache": "^5.1.1",
     "lucide-react": "^1.16.0",
+    "mammoth": "^1.12.0",
     "merge2": "^1.4.1",
     "micromatch": "^4.0.8",
     "minimatch": "^10.2.5",
@@ -108,6 +109,7 @@
     "path-exists": "^4.0.0",
     "path-key": "^3.1.1",
     "path-parse": "^1.0.7",
+    "pdf-parse": "^2.4.5",
     "picocolors": "^1.1.1",
     "picomatch": "^4.0.4",
     "pify": "^2.3.0",
@@ -157,7 +159,7 @@
     "zod-validation-error": "^4.0.2"
   },
   "scripts": {
-  "start": "nodemon server.js"
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
