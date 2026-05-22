@@ -19,7 +19,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-black via-gray-950 to-gray-900">
 
-      {/* Backend Test Button */}
+      {/* This is a Backend Test Button */}
       <div className="flex justify-center pt-6">
         <button
           onClick={testBackend}
