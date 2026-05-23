@@ -43,6 +43,11 @@ This application demonstrates a practical, complete pipeline from frontend UI to
 
 ## 🚀 Setup & Installation
 
+### Clone this repository
+```bash
+git clone https://github.com/samiksha2644/Resume-Analyzer-AI
+```
+
 ### Setup the Backend
 ```bash
 cd backend
