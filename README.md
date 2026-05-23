@@ -59,7 +59,6 @@ node server.js
 ### Setup the Frontend
 ```bash
 # Open a new terminal window
-cd frontend
 npm install
 npm start
 ```
