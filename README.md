@@ -45,7 +45,7 @@ This application demonstrates a practical, complete pipeline from frontend UI to
 
 ### Clone this repository
 ```bash
-git clone https://github.com/samiksha2644/Resume-Analyzer-AI
+git clone https://github.com/samiksha2644/Resume-Analyzer-AI.git
 ```
 
 ### Setup the Backend
