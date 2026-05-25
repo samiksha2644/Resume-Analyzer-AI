@@ -23,5 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-# Environment variables (CRITICAL TO PROTECT YOUR API KEYS)
+# Environment variables
 .env
